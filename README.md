@@ -1,10 +1,10 @@
 # html5-speedtest
-一个基于HTML5的Speedtest 开源速度测试(服务器网速)精简汉化
+一个基于HTML5的Speedtest 开源速度测试(服务器网速)只有9kb的精简汉化
 
 原版地址:https://github.com/adolfintel/speedtest
 
 ## 演示地址
-
+![Screenshot](https://raw.githubusercontent.com/insoxin/html5-speedtest/master/0920.gif)
 [speedtest.isoyu.com](http://speedtest.isoyu.com)
 
 ## 兼容性
